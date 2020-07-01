@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <template>I have no answer for that.</template>
+  </category>
+<category>
+    <pattern>Hello</pattern>
+    <template>Hello Caleb </template>
+</category>
+<category>
+    <pattern>what is a transformer</pattern>
+    <template>Definition:Transformer is a static device which convert electrical power from one circuit to another without changing its frequency. it Step up (or Step down) the level of AC Voltage and Current. Working principle: it works on the principle of mutual induction of two coils or Faraday Law's Of Electromagnetic induction.</template>
+</category>
+<category>
+    <pattern>what is ohms law </pattern>
+    <template>Ohm's law is a law that states that the voltage across a resistor is directly proportional to the current flowing through the resistance. Ohm's law is named for German physicist Georg Ohm (1789-1854)</template>
+</category>
+</aiml>
